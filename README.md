@@ -380,6 +380,9 @@ Make sure you have the following installed:
 # or `REDIS_HOST` for a host-only configuration. TTL (seconds) is configurable:
 # PRODUCTS_CACHE_TTL=60
 
+  <a href="https://www.npmjs.com/" target="_blank" rel="noopener noreferrer">npm</a>
+  <a href="https://yarnpkg.com/" target="_blank" rel="noopener noreferrer">yarn</a>
+  
 - [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 - A [MongoDB](https://www.mongodb.com/atlas) connection (Atlas or local)
 - A [Firebase](https://firebase.google.com/) project (for auth)
